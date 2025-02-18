@@ -1,3 +1,6 @@
+## Schema Preparation
+Use drizzle-orm and MySQL server to create a schema frontdesk with tables requests and users while storing information
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
