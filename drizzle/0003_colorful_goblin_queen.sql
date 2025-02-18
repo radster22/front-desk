@@ -1,0 +1,1 @@
+ALTER TABLE `requests` ADD `request_title` varchar(255) NOT NULL;
